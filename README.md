@@ -11,7 +11,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- URL: [Order summary ](https://rodrigo-fn.github.io/profile-card-component-main/)
+- URL: [Profile card](https://rodrigo-fn.github.io/profile-card-component-main/)
 
 ## My process
 
